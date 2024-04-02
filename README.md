@@ -298,3 +298,4 @@ git-machete (since version 2.13.0) is compatible with git >= 1.8.0.
 ## Contributions
 
 Contributions are welcome! See [contributing guidelines](CONTRIBUTING.md) for details.
+foo-bar
